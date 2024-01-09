@@ -35,7 +35,7 @@ The model was trained using the following approach:
 - **Intersection Over Union (IOU)**: The IOU metric was used to assess the overlap between predicted and actual circles. An IOU of 0.5 or higher is typically considered a successful prediction.
 
 ## Results
-The model achieved an IOU performance of approximately 0.33, indicating a moderate level of accuracy. The training process showed a steady decrease in
+The model achieved an IOU performance of approximately 0.33, indicating a moderate level of accuracy. The training process showed a steady decrease in loss, suggesting that the model was learning the task to some extent. However, the validation loss indicated potential overfitting, as it plateaued and fluctuated towards the later epochs.
 
 
 
