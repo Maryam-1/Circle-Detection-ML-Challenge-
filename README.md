@@ -13,7 +13,7 @@ A dataset of noisy images with circles of varying radii and positions was genera
 
 ### Sample Generated Images
 Below are examples of the generated images used for training:
-![Sample Generated Images](https://github.com/Maryam-1/Circle-Detection-ML-Challenge-/blob/main/Screenshot%2024-01-09%at%15.47.40.png)
+![Sample Generated Images](https://github.com/Maryam-1/Circle-Detection-ML-Challenge-/blob/main/Screenshot%202024-01-09%20at%2015.47.40.png)
 
 ## Model Architecture
 A Convolutional Neural Network (CNN) was employed with the following layers:
